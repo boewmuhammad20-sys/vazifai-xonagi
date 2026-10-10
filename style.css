@@ -1,0 +1,28 @@
+th,td{
+    border: solid 1px black;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 520px;
+    /* justify-content: center; */
+}
+input{
+    margin-left: 520px;
+    margin-top: 20px;
+}
+.search-add
+{
+    display: flex;
+    gap: 157px;
+    margin-top:10px;
+}
+.add{
+    height: 30px;
+    width: 50px;
+}
+.search
+{
+    height: 20px;
+    width: 200px;
+}
